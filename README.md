@@ -8,7 +8,8 @@
 <img width="2500" height="1748" alt="image" src="https://github.com/user-attachments/assets/5bcb9c55-0efc-4c7a-bdfa-c15d0f1e3bd8" />
 
 - XHS Post Generator: [XHS Post Generator](https://xhspostgenerator.com)
-<img width="1557" height="1031" alt="image" src="https://github.com/user-attachments/assets/db2cf937-e028-45a6-8298-2d0332d3717d" />
+<img width="2528" height="1854" alt="landingpage" src="https://github.com/user-attachments/assets/334d1a35-3209-4606-aae9-8fbdf108dbbc" />
+
 
 
 
